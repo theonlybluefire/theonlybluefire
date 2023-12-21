@@ -6,17 +6,17 @@ Soon I found CSS Frameworks like Bootstrap and began to use it.
 
 Nice to see you on my profile. Have fun !
 
-## 🎲 | My Intention
+## 🎲 | My intention
 I want to make everyone's lives easier and better with the software I create.
 
-# 🦾 | My Skills
+# 🦾 | My skills
  - Bootstrap
  - Javascript
  - currenly learning React.js
 
 ### 📅 | Currently trying to learn
 - React.js
-- Spoiler : **It's fun**
+- animating and design
 
 ### 📜 | other
 I've already created some nice projects. Take a look and mess a bit with it. If you want, give me a quick feedback.
